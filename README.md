@@ -421,8 +421,10 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/281
 http://195.154.252.221:8000/play/artmediaweb/index.m3u8
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/2bk3ouT.jpg",[$]FRAME TV 
 http://195.154.252.221:8000/play/a002/index.m3u8
-#EXTINF:0 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/0fqzNwj.png",[$]TV LIRIA
+#EXTINF:0 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/0fqzNwj.png",[$]TV LIRIA 
 http://tjeter4.albkanalegeneratornew.gq:8080/live/tvliria/playlist.m3u8|User-Agent=official.alb1kanale.iptv/3.0 (Linux;Android 7.0) ExoPlayerLib/2.8.4
+#EXTINF:0 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/0fqzNwj.png",[$]TV LIRIA 2
+http://178.132.220.2:8001/play/a01o/index.m3u8
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="http://www.albepg.com/tvlogi/Folklorit.png",[$]FOLKLORIT HD
 http://130.0.24.6:2831/udp/239.101.43.43:2345
 #EXTINF:0 group-title="[AL]MUZIKE" tvg-logo="https://i.ibb.co/mXFhLQV/festa.png",[$]TV FESTA 
@@ -532,6 +534,8 @@ http://ott-cdn.ucom.am/s79/04.m3u8|User-Agent=smartlabs
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8?token=test
 #EXTINF:0 group-title="[AL]KULTURE" tvg-logo="https://i.imgur.com/xokMNNL.png",[$]DISCOVERY HD
 http://46.19.226.132:4000/play/a04l
+#EXTINF:0 group-title="[AL]KULTURE" tvg-logo="https://i.imgur.com/xokMNNL.png",[$]DISCOVERY
+http://84.22.33.210:8000/DiscoveryCH/index.m3u8
 #EXTINF:0 group-title="[AL]KULTURE" tvg-logo="https://i.ibb.co/qYBHQ21/DTX.png",[$]DTX HD
 http://46.19.226.132:4000/play/a062b
 #EXTINF:0 group-title="[AL]KULTURE" tvg-logo="https://i.imgur.com/GCJ5Wd1.jpg",[$]ID HD
@@ -1165,22 +1169,22 @@ https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 
 #EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.imgur.com/ghwoCwa.png",[$]SUPER SPORT 1HD
 https://funwith.the-beast.xyz:8443/live/i6wZYI7tCN/D2nc3XLbpo/13.ts|User-Agent=g8ne22
-#EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.ibb.co/WxrLQsH/ALB1.png",[$]SS 1HD
-http://us.bestvideostreaming.is/10030/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.imgur.com/jxpQZnb.png",[$]SUPER SPORT 2HD
 https://funwith.the-beast.xyz:8443/live/i6wZYI7tCN/D2nc3XLbpo/14.ts|User-Agent=g8ne22
-#EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.ibb.co/5nj5JQ8/ALB2.png",[$]SS 2HD
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68842
 #EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.imgur.com/OGkuSsj.png",[$]SUPER SPORT 3HD
 https://funwith.the-beast.xyz:8443/live/i6wZYI7tCN/D2nc3XLbpo/16.ts|User-Agent=g8ne22
-#EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.ibb.co/Xy7XKZN/ALB3.png",[$]SS 3HD
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68843
 #EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.imgur.com/wiM6bur.png",[$]SUPER SPORT 4HD
 https://funwith.the-beast.xyz:8443/live/i6wZYI7tCN/D2nc3XLbpo/18.ts|User-Agent=g8ne22
-#EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.ibb.co/SXbcYzY/ALB4.png",[$]SS 4HD
-http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68844
 #EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.imgur.com/jVU7MnB.png",[$]SUPER SPORT 5HD
 https://funwith.the-beast.xyz:8443/live/i6wZYI7tCN/D2nc3XLbpo/19.ts|User-Agent=g8ne22
+#EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.ibb.co/WxrLQsH/ALB1.png",[$]SS 1HD
+http://us.bestvideostreaming.is/10030/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.ibb.co/5nj5JQ8/ALB2.png",[$]SS 2HD
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68842
+#EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.ibb.co/Xy7XKZN/ALB3.png",[$]SS 3HD
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68843
+#EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.ibb.co/SXbcYzY/ALB4.png",[$]SS 4HD
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68844
 #EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.ibb.co/59QgNyk/ALB5.png",[$]SS 5HD
 http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68845
 #EXTINF:0 group-title="[007]SPORTE(ALB)" tvg-logo="https://i.ibb.co/KbwNw35/ALB6.png",[$]SS 6HD
@@ -1284,23 +1288,24 @@ http://us.bestvideostreaming.is/8799/index.m3u8|User-Agent=stream
 http://str.smartip-tv.net:8888/SFR_SPORT_2_HD/index.m3u8?token=test
 #EXTINF:0 group-title="[AL]SPORT PLUS" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 11HD
 http://str.smartip-tv.net:8888/SFR_SPORT_3_HD/index.m3u8?token=test
-#EXTINF:0 group-title="[AL]SPORT PLUS" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 12HD
+
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[$]STAR SPORT 1HD
 http://195.222.7.26:7001/play/a012
-#EXTINF:0 group-title="[AL]SPORT PLUS" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 13HD
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[$]STAR SPORT 2HD
 http://195.222.7.26:7001/play/a00t
-#EXTINF:0 group-title="[AL]SPORT PLUS" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 14HD
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[$]STAR SPORT 3HD
 https://e21.plius.tv/n131/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="[AL]SPORT PLUS" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 15HD
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[$]STAR SPORT 4HD
 https://e21.plius.tv/n125/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="[AL]SPORT PLUS" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 16HD
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[$]STAR SPORT 5HD
 https://e21.plius.tv/n40/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="[AL]SPORT PLUS" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 17HD
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[$]STAR SPORT 6HD
 https://e21.plius.tv/l41/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="[AL]SPORT PLUS" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 18HD
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[$]STAR SPORT 7HD
 https://e21.plius.tv/n69/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="[AL]SPORT PLUS" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 19HD
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[$]STAR SPORT 8HD
 https://e21.plius.tv/n78/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="[AL]SPORT PLUS" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 20HD
+#EXTINF:0 group-title="[AL]STAR SPORT" tvg-logo="https://i.ibb.co/ZmQpQnd/SP.png",[$]STAR SPORT 9HD
 https://e21.plius.tv/l63/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="[EU]LOKALE" tvg-logo="https://i.ibb.co/h280x12/EU.png",=====>>[PAKETA_NDERKOMBETARE]<<=====
@@ -1424,6 +1429,16 @@ http://95.170.195.18:3040
 #EXTINF:-1 group-title="[AR]KINEMA ARABE" tvg-logo="https://i.ibb.co/Ph86NjC/star.png",[$]OSN STAR MOVIES
 http://95.170.195.18:3062
 
+#EXTINF:0 group-title="[UK]KINEMA ANGLEZE" tvg-logo="https://i.imgur.com/r1Y3kLU.png",[$]FREEFORM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
+#EXTINF:0 group-title="[UK]KINEMA ANGLEZE" tvg-logo="https://i.imgur.com/UAAkg7N.png",[$]FX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+#EXTINF:0 group-title="[UK]KINEMA ANGLEZE" tvg-logo="https://i.imgur.com/wxJMH1C.png",[$]TNT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+#EXTINF:0 group-title="[UK]KINEMA ANGLEZE" tvg-logo="https://i.imgur.com/zFWUCw9.png",[$]AXN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+#EXTINF:0 group-title="[UK]KINEMA ANGLEZE" tvg-logo="https://i.imgur.com/MH6bQxz.png",[$]FXX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
 #EXTINF:0 group-title="[UK]KINEMA ANGLEZE" tvg-logo="https://i.ibb.co/9wdVKyf/tv1.png",[$]TV 1000
 https://e21.plius.tv/l88/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="[UK]KINEMA ANGLEZE" tvg-logo="https://i.ibb.co/JksFwcP/tv1a.png",[$]TV 1000 ACTION
@@ -1681,7 +1696,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fdf644197a97dd
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cda020ee54800f0.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/jz5981t.png",[$]BEIN SPORTS 12HD[AR]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e90c4f14e943eab.m3u8|User-Agent=stream
-http://s3.gr8taxi.com/3bein4oldua/index.m3u8
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.ibb.co/RCxxxgR/VS.png",[$]VIASAT SPORT HD[RU]
 http://persik.tv/stream/3602/287583/10249.m3u8 
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/vabi9sG.png",[$]МАТЧ! HD[RU] 
@@ -1709,6 +1723,7 @@ http://s3.gr8taxi.com/3bein2oldua/index.m3u8
 #EXTINF:0 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/dLxMKoa.png",[$]BeIN SPORTS 3HD[TR]
 http://s3.gr8taxi.com/3bein3oldua/index.m3u8
 #EXTINF:0 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.ibb.co/fkVkhBN/BS4.png",[$]BeIN SPORTS 4HD[TR]
+http://s3.gr8taxi.com/3bein4oldua/index.m3u8
 #EXTINF:0 group-title="[WL]SPORTE(VIP)" tvg-logo="https://hosting.pilsfree.net/chudy/tvx/digi_sport_1.png",[$]DIGI SPORT 1HD[RO]
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17322
 #EXTINF:0 group-title="[WL]SPORTE(VIP)" tvg-logo="https://hosting.pilsfree.net/chudy/tvx/digi_sport_2.png",[$]DIGI SPORT 2HD[RO]
@@ -2021,6 +2036,18 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/653
 #EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.ibb.co/VHQT3xZ/BIKE.png",[$]BIKE HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/659
 
+#EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/NPotiAj.png",[$]BEIN SPORTS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+#EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/Gkrtlu5.png",[$]ELEVEN SPORTS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
+#EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/3RB0BuK.png",[$]ESPN HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+#EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/38zaJzs.png",[$]ESPN 2HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+#EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/BK4AJ2e.png",[$]NBA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/rKTUFeK.png",[$]XFL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
 #EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.ibb.co/pZT418G/SKY1.png",[$]SKY SPORT 1HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/872
 #EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.ibb.co/9276pdJ/SKY2.png",[$]SKY SPORT 2HD
@@ -2117,8 +2144,6 @@ http://188.35.9.12:21151/udp/192c
 
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.ibb.co/JFT7y3G/ES.png",[$]EPT SPORTS HD
 http://137.74.92.216:8080/EPTSPORT/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/lQaBA07.png",[$]OTE SPORT HIGHTLIGHTS HD
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17501
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/Q3zxloy.png",[$]OTE SPORT 1HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17495
 #EXTINF:0 group-title="[GR]SPORTE GREKE" tvg-logo="https://i.imgur.com/RtUH5hQ.png",[$]OTE SPORT 2HD
@@ -2174,6 +2199,8 @@ http://xtremesportsplus.myq-see.com:8080/peppe/peppe/158
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/24262
 #EXTINF:0 group-title="[SP]SPORTE SPANJOLLE" tvg-logo="https://i.imgur.com/aX5oOrv.jpg",[$]BEIN SPORTS N HD
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/47
+#EXTINF:0 group-title="[SP]SPORTE SPANJOLLE" tvg-logo="https://i.imgur.com/aX5oOrv.jpg",[$]BEIN SPORTS N 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 #EXTINF:0 group-title="[SP]SPORTE SPANJOLLE" tvg-logo="https://i.ibb.co/0yC3HHn/DEP.png",[$]ESPN DEPORTES
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 #EXTINF:0 group-title="[SP]SPORTE SPANJOLLE" tvg-logo="https://i.ibb.co/fDtmBWj/1.png",[$]M.FORMULA 1
@@ -2504,16 +2531,12 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.imgur.com/r8j0euI.png",[$]NBA HD
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 
-#EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/NPotiAj.png",[$]BEIN SPORTS HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 #EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/4I6Vi7T.png",[$]BEIN SPORTS 1HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e1ac7abfbc62d03.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/1B1MogA.png",[$]BEIN SPORTS 2HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/2641e86a2f437af.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/x0YleaY.png",[$]BEIN SPORTS 3HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/b8df5327ef42ebd.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/Gkrtlu5.png",[$]ELEVEN SPORTS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/517
 #EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/p0XTAnu.jpg",[$]FS1
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
 #EXTINF:0 group-title="[CA]SPORTE KANADEZE" tvg-logo="https://i.imgur.com/jntwgB0.png",[$]FS2
@@ -5137,741 +5160,3 @@ http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_ver
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8pwjTi1.png",[$]PureMature-78
 http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_avaaddams/content/vid01.mp4
 
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-1
-http://v1.paradisehill.cc/video/020616-0321-1_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-2
-http://v1.paradisehill.cc/video/020616-0321-2_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-3
-http://v1.paradisehill.cc/video/020616-0321-3_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-4
-http://v1.paradisehill.cc/video/020616-0321-4_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-5
-http://v1.paradisehill.cc/video/020616-0321-5_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-6
-http://v1.paradisehill.cc/video/020616-0321-6_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-7
-http://v1.paradisehill.cc/video/020616-0321-7_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-8
-http://v1.paradisehill.cc/video/020616-0321-8_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-9
-http://v1.paradisehill.cc/video/020616-0321-9_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-10
-http://v1.paradisehill.cc/video/020616-0321-10_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-11
-http://v1.paradisehill.cc/video/020616-0321-11_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-12
-http://v1.paradisehill.cc/video/020616-0321-12_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-13
-http://v1.paradisehill.cc/video/020616-0321-13_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-14
-http://v1.paradisehill.cc/video/020616-0321-14_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-15
-http://v1.paradisehill.cc/video/020616-0321-15_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-16
-http://v1.paradisehill.cc/video/020616-0321-16_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-17
-http://v1.paradisehill.cc/video/020616-0321-17_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-18
-http://v1.paradisehill.cc/video/020616-0321-18_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-19
-http://v1.paradisehill.cc/video/020616-0321-19_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-20
-http://v1.paradisehill.cc/video/020616-0321-20_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-21
-http://v1.paradisehill.cc/video/020616-0321-21_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-22
-http://v1.paradisehill.cc/video/020616-0321-22_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-23
-http://v1.paradisehill.cc/video/020616-0321-23_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-24
-http://v1.paradisehill.cc/video/020616-0321-24_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-25
-http://v1.paradisehill.cc/video/020616-0321-25_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-26
-http://v1.paradisehill.cc/video/020616-0321-26_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-27
-http://v1.paradisehill.cc/video/020616-0321-27_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-28
-http://v1.paradisehill.cc/video/020616-0321-28_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-29
-http://v1.paradisehill.cc/video/020616-0321-29_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-30
-http://v1.paradisehill.cc/video/020616-0321-30_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-31
-http://v1.paradisehill.cc/video/020616-0321-31_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-32
-http://v1.paradisehill.cc/video/020616-0321-32_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-33
-http://v1.paradisehill.cc/video/020616-0321-33_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-34
-http://v1.paradisehill.cc/video/020616-0321-34_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-35
-http://v1.paradisehill.cc/video/020616-0321-35_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-36
-http://v1.paradisehill.cc/video/020616-0321-36_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-37
-http://v1.paradisehill.cc/video/020616-0321-37_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-38
-http://v1.paradisehill.cc/video/020616-0321-38_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-39
-http://v1.paradisehill.cc/video/020616-0321-39_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-40
-http://v1.paradisehill.cc/video/020616-0321-40_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-41
-http://v1.paradisehill.cc/video/020616-0321-41_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-42
-http://v1.paradisehill.cc/video/020616-0321-42_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-43
-http://v1.paradisehill.cc/video/020616-0321-43_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-44
-http://v1.paradisehill.cc/video/020616-0321-44_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-45
-http://v1.paradisehill.cc/video/020616-0321-45_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-46
-http://v1.paradisehill.cc/video/020616-0321-46_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-47
-http://v1.paradisehill.cc/video/020616-0321-47_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-48
-http://v1.paradisehill.cc/video/020616-0321-48_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-49
-http://v1.paradisehill.cc/video/020616-0321-49_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-50
-http://v1.paradisehill.cc/video/020616-0321-50_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-51
-http://v1.paradisehill.cc/video/020616-0321-51_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-52
-http://v1.paradisehill.cc/video/020616-0321-52_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-53
-http://v1.paradisehill.cc/video/020616-0321-53_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-54
-http://v1.paradisehill.cc/video/020616-0321-54_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-55
-http://v1.paradisehill.cc/video/020616-0321-55_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-56
-http://v1.paradisehill.cc/video/020616-0321-56_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-57
-http://v1.paradisehill.cc/video/020616-0321-57_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-58
-http://v1.paradisehill.cc/video/020616-0321-58_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-59
-http://v1.paradisehill.cc/video/020616-0321-59_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-60
-http://v1.paradisehill.cc/video/020616-0321-60_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-61
-http://v1.paradisehill.cc/video/020616-0321-61_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-62
-http://v1.paradisehill.cc/video/020616-0321-62_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-63
-http://v1.paradisehill.cc/video/020616-0321-63_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-64
-http://v1.paradisehill.cc/video/020616-0321-64_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-65
-http://v1.paradisehill.cc/video/020616-0321-65_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-66
-http://v1.paradisehill.cc/video/020616-0321-66_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-67
-http://v1.paradisehill.cc/video/020616-0321-67_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-68
-http://v1.paradisehill.cc/video/020616-0321-68_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-69
-http://v1.paradisehill.cc/video/020616-0321-69_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-70
-http://v1.paradisehill.cc/video/020616-0321-70_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-71
-http://v1.paradisehill.cc/video/020616-0321-71_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-72
-http://v1.paradisehill.cc/video/020616-0321-72_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-73
-http://v1.paradisehill.cc/video/020616-0321-73_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-74
-http://v1.paradisehill.cc/video/020616-0321-74_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-75
-http://v1.paradisehill.cc/video/020616-0321-75_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-76
-http://v1.paradisehill.cc/video/020616-0321-76_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-77
-http://v1.paradisehill.cc/video/020616-0321-77_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-78
-http://v1.paradisehill.cc/video/020616-0321-78_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-79
-http://v1.paradisehill.cc/video/020616-0321-79_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-80
-http://v1.paradisehill.cc/video/020616-0321-80_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-81
-http://v1.paradisehill.cc/video/020616-0321-81_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-82
-http://v1.paradisehill.cc/video/020616-0321-82_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-83
-http://v1.paradisehill.cc/video/020616-0321-83_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-84
-http://v1.paradisehill.cc/video/020616-0321-84_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-85
-http://v1.paradisehill.cc/video/020616-0321-85_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-86
-http://v1.paradisehill.cc/video/020616-0321-86_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-87
-http://v1.paradisehill.cc/video/020616-0321-87_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-88
-http://v1.paradisehill.cc/video/020616-0321-88_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-89
-http://v1.paradisehill.cc/video/020616-0321-89_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-90
-http://v1.paradisehill.cc/video/020616-0321-90_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-91
-http://v1.paradisehill.cc/video/020616-0321-91_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-92
-http://v1.paradisehill.cc/video/020616-0321-92_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-93
-http://v1.paradisehill.cc/video/020616-0321-93_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-94
-http://v1.paradisehill.cc/video/020616-0321-94_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-95
-http://v1.paradisehill.cc/video/020616-0321-95_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-96
-http://v1.paradisehill.cc/video/020616-0321-96_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-97
-http://v1.paradisehill.cc/video/020616-0321-97_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-98
-http://v1.paradisehill.cc/video/020616-0321-98_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-99
-http://v1.paradisehill.cc/video/020616-0321-99_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-100
-http://v1.paradisehill.cc/video/020616-0321-100_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-101
-http://v1.paradisehill.cc/video/020616-0321-101_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-102
-http://v1.paradisehill.cc/video/020616-0321-102_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-103
-http://v1.paradisehill.cc/video/020616-0321-103_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-104
-http://v1.paradisehill.cc/video/020616-0321-104_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-105
-http://v1.paradisehill.cc/video/020616-0321-105_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-106
-http://v1.paradisehill.cc/video/020616-0321-106_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-107
-http://v1.paradisehill.cc/video/020616-0321-107_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-108
-http://v1.paradisehill.cc/video/020616-0321-108_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-109
-http://v1.paradisehill.cc/video/020616-0321-109_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-110
-http://v1.paradisehill.cc/video/020616-0321-110_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-111
-http://v1.paradisehill.cc/video/020616-0321-111_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-112
-http://v1.paradisehill.cc/video/020616-0321-112_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-113
-http://v1.paradisehill.cc/video/020616-0321-113_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-114
-http://v1.paradisehill.cc/video/020616-0321-114_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-115
-http://v1.paradisehill.cc/video/020616-0321-115_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-116
-http://v1.paradisehill.cc/video/020616-0321-116_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-117
-http://v1.paradisehill.cc/video/020616-0321-117_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-118
-http://v1.paradisehill.cc/video/020616-0321-118_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-119
-http://v1.paradisehill.cc/video/020616-0321-119_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-120
-http://v1.paradisehill.cc/video/020616-0321-120_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-121
-http://v1.paradisehill.cc/video/020616-0321-121_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-122
-http://v1.paradisehill.cc/video/020616-0321-122_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-123
-http://v1.paradisehill.cc/video/020616-0321-123_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-124
-http://v1.paradisehill.cc/video/020616-0321-124_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-125
-http://v1.paradisehill.cc/video/020616-0321-125_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-126
-http://v1.paradisehill.cc/video/020616-0321-126_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-127
-http://v1.paradisehill.cc/video/020616-0321-127_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-128
-http://v1.paradisehill.cc/video/020616-0321-128_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-129
-http://v1.paradisehill.cc/video/020616-0321-129_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-130
-http://v1.paradisehill.cc/video/020616-0321-130_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-131
-http://v1.paradisehill.cc/video/020616-0321-131_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-132
-http://v1.paradisehill.cc/video/020616-0321-132_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-133
-http://v1.paradisehill.cc/video/020616-0321-133_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-134
-http://v1.paradisehill.cc/video/020616-0321-134_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-135
-http://v1.paradisehill.cc/video/020616-0321-135_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-136
-http://v1.paradisehill.cc/video/020616-0321-136_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-137
-http://v1.paradisehill.cc/video/020616-0321-137_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-138
-http://v1.paradisehill.cc/video/020616-0321-138_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-139
-http://v1.paradisehill.cc/video/020616-0321-139_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-140
-http://v1.paradisehill.cc/video/020616-0321-140_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-141
-http://v1.paradisehill.cc/video/020616-0321-141_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-142
-http://v1.paradisehill.cc/video/020616-0321-142_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-143
-http://v1.paradisehill.cc/video/020616-0321-143_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-144
-http://v1.paradisehill.cc/video/020616-0321-144_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-145
-http://v1.paradisehill.cc/video/020616-0321-145_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-146
-http://v1.paradisehill.cc/video/020616-0321-146_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-147
-http://v1.paradisehill.cc/video/020616-0321-147_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-148
-http://v1.paradisehill.cc/video/020616-0321-148_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-149
-http://v1.paradisehill.cc/video/020616-0321-149_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-150
-http://v1.paradisehill.cc/video/020616-0321-150_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-151
-http://v1.paradisehill.cc/video/020616-0321-151_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-152
-http://v1.paradisehill.cc/video/020616-0321-152_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-153
-http://v1.paradisehill.cc/video/020616-0321-153_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-154
-http://v1.paradisehill.cc/video/020616-0321-154_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-155
-http://v1.paradisehill.cc/video/020616-0321-155_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-156
-http://v1.paradisehill.cc/video/020616-0321-156_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-157
-http://v1.paradisehill.cc/video/020616-0321-157_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-158
-http://v1.paradisehill.cc/video/020616-0321-158_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-159
-http://v1.paradisehill.cc/video/020616-0321-159_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-160
-http://v1.paradisehill.cc/video/020616-0321-160_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-161
-http://v1.paradisehill.cc/video/020616-0321-161_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-162
-http://v1.paradisehill.cc/video/020616-0321-162_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-163
-http://v1.paradisehill.cc/video/020616-0321-163_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-164
-http://v1.paradisehill.cc/video/020616-0321-164_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-165
-http://v1.paradisehill.cc/video/020616-0321-165_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-166
-http://v1.paradisehill.cc/video/020616-0321-166_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-167
-http://v1.paradisehill.cc/video/020616-0321-167_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-168
-http://v1.paradisehill.cc/video/020616-0321-168_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-169
-http://v1.paradisehill.cc/video/020616-0321-169_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-170
-http://v1.paradisehill.cc/video/020616-0321-170_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-171
-http://v1.paradisehill.cc/video/020616-0321-171_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-172
-http://v1.paradisehill.cc/video/020616-0321-172_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-173
-http://v1.paradisehill.cc/video/020616-0321-173_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-174
-http://v1.paradisehill.cc/video/020616-0321-174_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-175
-http://v1.paradisehill.cc/video/020616-0321-175_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-176
-http://v1.paradisehill.cc/video/020616-0321-176_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-177
-http://v1.paradisehill.cc/video/020616-0321-177_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-178
-http://v1.paradisehill.cc/video/020616-0321-178_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-179
-http://v1.paradisehill.cc/video/020616-0321-179_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-180
-http://v1.paradisehill.cc/video/020616-0321-180_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-181
-http://v1.paradisehill.cc/video/020616-0321-181_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-182
-http://v1.paradisehill.cc/video/020616-0321-182_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-183
-http://v1.paradisehill.cc/video/020616-0321-183_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-184
-http://v1.paradisehill.cc/video/020616-0321-184_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-185
-http://v1.paradisehill.cc/video/020616-0321-185_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-186
-http://v1.paradisehill.cc/video/020616-0321-186_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-187
-http://v1.paradisehill.cc/video/020616-0321-187_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-188
-http://v1.paradisehill.cc/video/020616-0321-188_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-189
-http://v1.paradisehill.cc/video/020616-0321-189_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-190
-http://v1.paradisehill.cc/video/020616-0321-190_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-191
-http://v1.paradisehill.cc/video/020616-0321-191_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-192
-http://v1.paradisehill.cc/video/020616-0321-192_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-193
-http://v1.paradisehill.cc/video/020616-0321-193_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-194
-http://v1.paradisehill.cc/video/020616-0321-194_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-195
-http://v1.paradisehill.cc/video/020616-0321-195_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-196
-http://v1.paradisehill.cc/video/020616-0321-196_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-197
-http://v1.paradisehill.cc/video/020616-0321-197_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-198
-http://v1.paradisehill.cc/video/020616-0321-198_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-199
-http://v1.paradisehill.cc/video/020616-0321-199_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-200
-http://v1.paradisehill.cc/video/020616-0321-200_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-201
-http://v1.paradisehill.cc/video/020616-0321-201_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-202
-http://v1.paradisehill.cc/video/020616-0321-202_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-203
-http://v1.paradisehill.cc/video/020616-0321-203_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-204
-http://v1.paradisehill.cc/video/020616-0321-204_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-205
-http://v1.paradisehill.cc/video/020616-0321-205_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-206
-http://v1.paradisehill.cc/video/020616-0321-206_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-207
-http://v1.paradisehill.cc/video/020616-0321-207_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-208
-http://v1.paradisehill.cc/video/020616-0321-208_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-209
-http://v1.paradisehill.cc/video/020616-0321-209_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-210
-http://v1.paradisehill.cc/video/020616-0321-210_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-211
-http://v1.paradisehill.cc/video/020616-0321-211_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-212
-http://v1.paradisehill.cc/video/020616-0321-212_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-213
-http://v1.paradisehill.cc/video/020616-0321-213_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-214
-http://v1.paradisehill.cc/video/020616-0321-214_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-215
-http://v1.paradisehill.cc/video/020616-0321-215_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-216
-http://v1.paradisehill.cc/video/020616-0321-216_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-217
-http://v1.paradisehill.cc/video/020616-0321-217_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-218
-http://v1.paradisehill.cc/video/020616-0321-218_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-219
-http://v1.paradisehill.cc/video/020616-0321-219_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-220
-http://v1.paradisehill.cc/video/020616-0321-220_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-221
-http://v1.paradisehill.cc/video/020616-0321-221_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-222
-http://v1.paradisehill.cc/video/020616-0321-222_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-223
-http://v1.paradisehill.cc/video/020616-0321-223_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-224
-http://v1.paradisehill.cc/video/020616-0321-224_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-225
-http://v1.paradisehill.cc/video/020616-0321-225_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-226
-http://v1.paradisehill.cc/video/020616-0321-226_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-227
-http://v1.paradisehill.cc/video/020616-0321-227_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-228
-http://v1.paradisehill.cc/video/020616-0321-228_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-229
-http://v1.paradisehill.cc/video/020616-0321-229_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-230
-http://v1.paradisehill.cc/video/020616-0321-230_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-231
-http://v1.paradisehill.cc/video/020616-0321-231_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-232
-http://v1.paradisehill.cc/video/020616-0321-232_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-233
-http://v1.paradisehill.cc/video/020616-0321-2333_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-234
-http://v1.paradisehill.cc/video/020616-0321-234_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-235
-http://v1.paradisehill.cc/video/020616-0321-235_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-236
-http://v1.paradisehill.cc/video/020616-0321-236_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-237
-http://v1.paradisehill.cc/video/020616-0321-237_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-238
-http://v1.paradisehill.cc/video/020616-0321-238_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-239
-http://v1.paradisehill.cc/video/020616-0321-239_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-240
-http://v1.paradisehill.cc/video/020616-0321-240_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-241
-http://v1.paradisehill.cc/video/020616-0321-241_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-242
-http://v1.paradisehill.cc/video/020616-0321-242_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-243
-http://v1.paradisehill.cc/video/020616-0321-243_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-244
-http://v1.paradisehill.cc/video/020616-0321-244_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-245
-http://v1.paradisehill.cc/video/020616-0321-245_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-246
-http://v1.paradisehill.cc/video/020616-0321-246_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-247
-http://v1.paradisehill.cc/video/020616-0321-247_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-248
-http://v1.paradisehill.cc/video/020616-0321-248_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-249
-http://v1.paradisehill.cc/video/020616-0321-249_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-250
-http://v1.paradisehill.cc/video/020616-0321-250_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-251
-http://v1.paradisehill.cc/video/020616-0321-251_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-252
-http://v1.paradisehill.cc/video/020616-0321-252_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-253
-http://v1.paradisehill.cc/video/020616-0321-253_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-254
-http://v1.paradisehill.cc/video/020616-0321-254_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-255
-http://v1.paradisehill.cc/video/020616-0321-255_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-256
-http://v1.paradisehill.cc/video/020616-0321-256_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-257
-http://v1.paradisehill.cc/video/020616-0321-257_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-258
-http://v1.paradisehill.cc/video/020616-0321-258_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-259
-http://v1.paradisehill.cc/video/020616-0321-259_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-260
-http://v1.paradisehill.cc/video/020616-0321-260_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-261
-http://v1.paradisehill.cc/video/020616-0321-261_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-262
-http://v1.paradisehill.cc/video/020616-0321-262_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-263
-http://v1.paradisehill.cc/video/020616-0321-263_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-264
-http://v1.paradisehill.cc/video/020616-0321-264_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-265
-http://v1.paradisehill.cc/video/020616-0321-265_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-266
-http://v1.paradisehill.cc/video/020616-0321-266_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-267
-http://v1.paradisehill.cc/video/020616-0321-267_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-268
-http://v1.paradisehill.cc/video/020616-0321-268_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-269
-http://v1.paradisehill.cc/video/020616-0321-269_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-270
-http://v1.paradisehill.cc/video/020616-0321-270_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-271
-http://v1.paradisehill.cc/video/020616-0321-271_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-272
-http://v1.paradisehill.cc/video/020616-0321-272_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-273
-http://v1.paradisehill.cc/video/020616-0321-273_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-274
-http://v1.paradisehill.cc/video/020616-0321-274_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-275
-http://v1.paradisehill.cc/video/020616-0321-275_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-276
-http://v1.paradisehill.cc/video/020616-0321-276_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-277
-http://v1.paradisehill.cc/video/020616-0321-277_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-278
-http://v1.paradisehill.cc/video/020616-0321-278_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-279
-http://v1.paradisehill.cc/video/020616-0321-279_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-280
-http://v1.paradisehill.cc/video/020616-0321-280_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-281
-http://v1.paradisehill.cc/video/020616-0321-281_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-282
-http://v1.paradisehill.cc/video/020616-0321-282_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-283
-http://v1.paradisehill.cc/video/020616-0321-283_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-284
-http://v1.paradisehill.cc/video/020616-0321-284_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-285
-http://v1.paradisehill.cc/video/020616-0321-285_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-286
-http://v1.paradisehill.cc/video/020616-0321-286_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-287
-http://v1.paradisehill.cc/video/020616-0321-287_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-288
-http://v1.paradisehill.cc/video/020616-0321-288_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-289
-http://v1.paradisehill.cc/video/020616-0321-289_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-290
-http://v1.paradisehill.cc/video/020616-0321-290_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-291
-http://v1.paradisehill.cc/video/020616-0321-291_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-292
-http://v1.paradisehill.cc/video/020616-0321-292_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-293
-http://v1.paradisehill.cc/video/020616-0321-293_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-294
-http://v1.paradisehill.cc/video/020616-0321-294_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-295
-http://v1.paradisehill.cc/video/020616-0321-295_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-296
-http://v1.paradisehill.cc/video/020616-0321-296_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-297
-http://v1.paradisehill.cc/video/020616-0321-297_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-298
-http://v1.paradisehill.cc/video/020616-0321-298_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-299
-http://v1.paradisehill.cc/video/020616-0321-299_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-300
-http://v1.paradisehill.cc/video/020616-0321-300_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-301
-http://v1.paradisehill.cc/video/020616-0321-301_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-302
-http://v1.paradisehill.cc/video/020616-0321-302_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-303
-http://v1.paradisehill.cc/video/020616-0321-303_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-304
-http://v1.paradisehill.cc/video/020616-0321-304_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-305
-http://v1.paradisehill.cc/video/020616-0321-305_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-306
-http://v1.paradisehill.cc/video/020616-0321-306_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-307
-http://v1.paradisehill.cc/video/020616-0321-307_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-308
-http://v1.paradisehill.cc/video/020616-0321-308_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-309
-http://v1.paradisehill.cc/video/020616-0321-309_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-310
-http://v1.paradisehill.cc/video/020616-0321-310_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-311
-http://v1.paradisehill.cc/video/020616-0321-311_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-312
-http://v1.paradisehill.cc/video/020616-0321-312_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-313
-http://v1.paradisehill.cc/video/020616-0321-313_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-314
-http://v1.paradisehill.cc/video/020616-0321-314_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-315
-http://v1.paradisehill.cc/video/020616-0321-315_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-316
-http://v1.paradisehill.cc/video/020616-0321-316_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-317
-http://v1.paradisehill.cc/video/020616-0321-317_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-318
-http://v1.paradisehill.cc/video/020616-0321-318_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-319
-http://v1.paradisehill.cc/video/020616-0321-319_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-320
-http://v1.paradisehill.cc/video/020616-0321-320_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-321
-http://v1.paradisehill.cc/video/020616-0321-321_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-322
-http://v1.paradisehill.cc/video/020616-0321-322_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-323
-http://v1.paradisehill.cc/video/020616-0321-323_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-324
-http://v1.paradisehill.cc/video/020616-0321-324_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-325
-http://v1.paradisehill.cc/video/020616-0321-325_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-326
-http://v1.paradisehill.cc/video/020616-0321-326_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-327
-http://v1.paradisehill.cc/video/020616-0321-327_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-328
-http://v1.paradisehill.cc/video/020616-0321-328_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-329
-http://v1.paradisehill.cc/video/020616-0321-329_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-330
-http://v1.paradisehill.cc/video/020616-0321-330_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-331
-http://v1.paradisehill.cc/video/020616-0321-331_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-332
-http://v1.paradisehill.cc/video/020616-0321-332_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-333
-http://v1.paradisehill.cc/video/020616-0321-333_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-334
-http://v1.paradisehill.cc/video/020616-0321-334_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-335
-http://v1.paradisehill.cc/video/020616-0321-335_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-336
-http://v1.paradisehill.cc/video/020616-0321-336_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-337
-http://v1.paradisehill.cc/video/020616-0321-337_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-338
-http://v1.paradisehill.cc/video/020616-0321-338_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-339
-http://v1.paradisehill.cc/video/020616-0321-339_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-340
-http://v1.paradisehill.cc/video/020616-0321-340_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-341
-http://v1.paradisehill.cc/video/020616-0321-341_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-342
-http://v1.paradisehill.cc/video/020616-0321-342_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-343
-http://v1.paradisehill.cc/video/020616-0321-343_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-344
-http://v1.paradisehill.cc/video/020616-0321-344_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-345
-http://v1.paradisehill.cc/video/020616-0321-345_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-346
-http://v1.paradisehill.cc/video/020616-0321-346_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-347
-http://v1.paradisehill.cc/video/020616-0321-347_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-348
-http://v1.paradisehill.cc/video/020616-0321-348_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-349
-http://v1.paradisehill.cc/video/020616-0321-349_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-350
-http://v1.paradisehill.cc/video/020616-0321-350_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-351
-http://v1.paradisehill.cc/video/020616-0321-351_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-352
-http://v1.paradisehill.cc/video/020616-0321-352_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-353
-http://v1.paradisehill.cc/video/020616-0321-353_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-354
-http://v1.paradisehill.cc/video/020616-0321-354_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-355
-http://v1.paradisehill.cc/video/020616-0321-355_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-356
-http://v1.paradisehill.cc/video/020616-0321-356_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-357
-http://v1.paradisehill.cc/video/020616-0321-357_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-358
-http://v1.paradisehill.cc/video/020616-0321-358_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-359
-http://v1.paradisehill.cc/video/020616-0321-359_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-360
-http://v1.paradisehill.cc/video/020616-0321-360_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-361
-http://v1.paradisehill.cc/video/020616-0321-361_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-362
-http://v1.paradisehill.cc/video/020616-0321-362_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-363
-http://v1.paradisehill.cc/video/020616-0321-363_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-364
-http://v1.paradisehill.cc/video/020616-0321-364_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-365
-http://v1.paradisehill.cc/video/020616-0321-365_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-366
-http://v1.paradisehill.cc/video/020616-0321-366_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-367
-http://v1.paradisehill.cc/video/020616-0321-367_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-368
-http://v1.paradisehill.cc/video/020616-0321-368_part1.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/mnUiDT3.png",[$]VOD X-369
-http://v1.paradisehill.cc/video/020616-0321-369_part1.mp4
