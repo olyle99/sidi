@@ -1637,9 +1637,9 @@ https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/Rc7oTw2.png",[$]BEIN SPORTS NEWS HD[AR]
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/950186a5d2e3ce0.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD[AR]
-http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
+http://93.190.139.35:8278/streams/d/bee1hd/playlist.m3u8?token=test
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD[AR]
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/c28e6ada110428c.m3u8|User-Agent=stream
+http://93.190.139.35:8278/streams/d/bee2hd/playlist.m3u8?token=test
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD[AR]
 http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD[AR]
@@ -1655,11 +1655,13 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/bJgzQPW.png",[$]BEIN SPORTS 9HD[AR]
 http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/dO3I3c5.png",[$]BEIN SPORTS 10HD[AR]
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/fdf644197a97dd6.m3u8|User-Agent=stream
+http://93.190.139.35:8278/streams/d/bee10hd/playlist.m3u8?token=test
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/SNBeAuf.png",[$]BEIN SPORTS 11HD[AR]
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/cda020ee54800f0.m3u8|User-Agent=stream
+http://93.190.139.35:8278/streams/d/bee11hd/playlist.m3u8?token=test
 #EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/jz5981t.png",[$]BEIN SPORTS 12HD[AR]
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Sports/e90c4f14e943eab.m3u8|User-Agent=stream
+http://93.190.139.35:8278/streams/d/bee12hd/playlist.m3u8?token=test
+#EXTINF:-1 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.ibb.co/Kj8WygM/13.png",[$]BEIN SPORTS 13HD[AR]
+http://93.190.139.35:8278/streams/d/bee13hd/playlist.m3u8?token=test
 #EXTINF:0 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.ibb.co/dj0p97N/sp1.png",[$]SPORT TV 1HD[PT]
 http://77.54.145.209:81/play/a02v
 #EXTINF:0 group-title="[WL]SPORTE(VIP)" tvg-logo="https://i.ibb.co/CQbSDbr/sp2.png",[$]SPORT TV 2HD[PT]
@@ -2997,6 +2999,167 @@ https://tiny.gjirafa.com/api/media/gjvideo/yzyy1t/index.m3u8
 #EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/371HJfP/schengen.jpg",[SCHENGEN VISA] EP.12 [$]
 https://zeus.gjirafa.com/api/media/gjvideo/yzyg11/index.m3u8
 
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.1 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0zztz/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.2 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0zgy0/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.3 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0z1xk/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.4 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0gxkz/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.5 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0gtxg/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.6 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0gtyt/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.7 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0gtgq/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.8 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0gtkk/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.9 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0gyy1/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.10 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0ggkx/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.11 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0g1tx/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.12 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0g1yg/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.13 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0g1kx/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.14 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0qtkk/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.15 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0qgt0/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.16 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0q0t0/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.17 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0qkkt/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.18 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t00xty/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.19 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t00x1z/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.20 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t00yzz/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.21 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t00gxk/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.22 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t00qqg/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.23 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t001z0/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.24 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0ktzk/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.25 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0kgzy/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.26 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t0kk0x/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.27 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t01t01/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.28 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tkxxzx/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.29 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tkxy1g/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.30 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tkx0z0/index720.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.31 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tkyg0q/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.32 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tky1xz/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.33 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tkzg1y/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.34 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tkgtxy/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.35 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tkgqg1/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.36 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tkqtxk/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.37 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tkq0tt/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.38 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tk0xzx/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.39 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tk0g0t/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.40 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tkkxkz/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.41 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tkkgzy/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.42 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tk1yzk/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.43 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/tk1kg1/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.44 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1xz0q/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.45 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1x1ky/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.46 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1tzg1/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.47 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1t1zx/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.48 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1ygqz/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.49 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1y11x/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.50 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1zqg1/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.51 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1gzqx/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.52 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1qggz/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.53 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1qk00/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.54 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t10gyy/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.55 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1011k/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.56 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t1kqzy/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.57 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t11xgt/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.58 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/t11qk0/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.59 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yxxtqq/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.60 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yxx1xt/index1080.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.61 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/ytkqkk/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.62 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/ytk1gz/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.63 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yt1yyz/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.64 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yt1gyk/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.65 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yt10kk/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.66 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yt111z/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.67 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yyxytx/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.68 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yyxgqy/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.69 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yyxkz0/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.70 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yytttk/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.71 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yytgxy/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.72 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yyt0zq/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.73 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yyt1yq/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.74 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yyyykz/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.75 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yyy0qg/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.76 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yyzttz/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.77 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yyzggt/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.78 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yyzk00/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.79 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yygtqq/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.80 [$]
+https://tiny.gjirafa.com/api/media/gjvideo/yyggzk/1080/index.m3u8
+
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/u3Jk2mc.jpg",[THE TAKE] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/iGElkWw6/take1.1_hd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/u3Jk2mc.jpg",[THE TAKE] SEZ 01 EP 02[$]
@@ -3383,6 +3546,8 @@ https://videos.files.wordpress.com/S2GX5sjo/vdekjemeporosi_dvd.mp4
 https://videos.files.wordpress.com/rxZUnSt3/krimpakrisma-1_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/59tgju0.png",[$]ISHTE KOHE PER DASHURI
 https://videos.files.wordpress.com/zYQyHRn0/ishtekoheperdashuri_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/59tgju0.png",[$]PER PUSHIME NE ROME
+https://videos.files.wordpress.com/e4646Oxd/perpushimenerome-1_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/59tgju0.png",[$]STOP MAFIA PIT
 https://videos.files.wordpress.com/lONbqeZe/stopmafiapitfilmshqiptar-beskallaku26rezartveleshnja2b16_high_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/59tgju0.png",[$]DY HERE MAT
@@ -3450,6 +3615,63 @@ https://naimi.gjirafa.com/api/media/gjvideo/yqkykg/1080/index.m3u8
 https://samiu.gjirafa.com/api/media/gjvideo/yqkzyy/720/index.m3u8
 #EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]DASMAT DHE PAMPERSAT 
 https://naimi.gjirafa.com/api/media/gjvideo/yqkzyt/360/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]NDESHJA E FUNDIT
+https://samiu.gjirafa.com/api/media/gjvideo/yqkzy0/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]PIRLO
+https://naimi.gjirafa.com/api/media/gjvideo/yq1xx0/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]ME FAL 
+https://naimi.gjirafa.com/api/media/gjvideo/yqk1kq/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]EHO
+https://naimi.gjirafa.com/api/media/gjvideo/yqkyxg/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]NOTHING TO NOBODY 
+https://samiu.gjirafa.com/api/media/gjvideo/yq1q0z/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]MALI I HARRUM 
+https://samiu.gjirafa.com/api/media/gjvideo/yq10tt/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]EVIDENCE
+https://samiu.gjirafa.com/api/media/gjvideo/y0xtz0/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]HOME SWEET HOME
+https://samiu.gjirafa.com/api/media/gjvideo/y0xyg1/360/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]KASETA E DASMES 
+https://naimi.gjirafa.com/api/media/gjvideo/y0kkyt/720/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]TRE
+https://samiu.gjirafa.com/api/media/gjvideo/y0xkyy/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]GARDHI 
+https://naimi.gjirafa.com/api/media/gjvideo/yqkzxg/1080/index.m3u8
+#EXTINF:-1 group-title="[KS]FILMA(VOD)" tvg-logo="https://i.imgur.com/dVwAVSg.png",[$]ZIBIDI
+https://samiu.gjirafa.com/api/media/gjvideo/yqkzxq/1080/index.m3u8
+
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]FALCON RISING
+https://videos.files.wordpress.com/6Rztxduq/falconrising28201429-aksion2caventurc3ab2ckrim28filmiplotc3abmetitrashqip29-full_high_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]THE GREY
+https://videos.files.wordpress.com/V27DMWGG/thegrey28202029_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]AVENGEMENT
+https://videos.files.wordpress.com/SGqtyJ6J/avegement-1_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]ROBIN HOOD
+https://videos.files.wordpress.com/30AfQzmi/robinhood_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]EL GRINGO
+https://videos.files.wordpress.com/OBo3Zlmz/elgringo_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]CLOSE RANGE
+https://videos.files.wordpress.com/1Pl3Bz5t/closerange_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]PARKER
+https://videos.files.wordpress.com/CtLycem2/parker_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BEYOND THE LAW
+https://videos.files.wordpress.com/l6v28QK7/beyondthelaw_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BABY'S DAY OUT
+https://videos.files.wordpress.com/ENeefrZf/baby27sdayout_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]ANONYMOUS HACKER
+https://videos.files.wordpress.com/1UKtZEdv/anonymousakahacker_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]ARMOUR OF GOD
+https://videos.files.wordpress.com/EcbOz55t/armourofgod_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]DEVIL'S
+https://videos.files.wordpress.com/4d0CSGbT/devil27s_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]KILL SPEED
+https://videos.files.wordpress.com/B22uDAVw/killspeed_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]TAXI
+https://videos.files.wordpress.com/NDqpVYLw/taxi_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]BLEEDING STEEL
+https://videos.files.wordpress.com/XDL7puNT/bleedingsteel_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]KICKBOXER
+https://videos.files.wordpress.com/X7j4kaRL/kickboxer_dvd.mp4
 
 #EXTINF:-1 group-title="[UK]FILMA(VOD)" tvg-logo="https://i.imgur.com/PV5RrMA.png",[$]MR.BEAN
 https://k.top4top.io/m_14780yajy3.mp4
