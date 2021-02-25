@@ -975,7 +975,7 @@ https://framtetv.online/fxmediaweb5548/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="[AL]EURO FILM" tvg-logo="https://i.imgur.com/yBjZ17T.png",[$]ALB-TV FILM 1HD
 https://t2.tvmak.com/tv/ALBFILMTV1.m3u8
 #EXTINF:0 group-title="[AL]EURO FILM" tvg-logo="https://i.imgur.com/yBjZ17T.png",[$]ALB-TV FILM 2HD
-https://t2.tvmak.com/tv/ALBFILMTV1.m3u8
+https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
 #EXTINF:0 group-title="[AL]EURO FILM" tvg-logo="https://i.ibb.co/gd2vWTK/PLUS.png",[$]KINEMA+ HITS HD
 https://funwith.the-beast.xyz:8443/live/i6wZYI7tCN/D2nc3XLbpo/95.ts|User-Agent=g8ne22
 #EXTINF:0 group-title="[AL]EURO FILM" tvg-logo="https://i.imgur.com/Lvajgfh.png",[$]KINEMA+ GOLD HD
@@ -995,12 +995,6 @@ http://217.115.112.195:8123/play/ch34/index.m3u8|User-Agent=stream
 http://77.46.130.252:1234/hbo
 #EXTINF:0 group-title="[AL]STREAM FILM" tvg-logo="https://i.ibb.co/Jmg2mKW/h2.png",[$]HBO 2HD
 http://77.46.130.252:1234/hbo2
-#EXTINF:0 group-title="[AL]STREAM FILM" tvg-logo="https://i.imgur.com/CzZ55Ay.png",[$]HBO HITS
-http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
-#EXTINF:0 group-title="[AL]STREAM FILM" tvg-logo="https://i.imgur.com/xu4Huhh.png",[$]HBO FAMILY
-http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
-#EXTINF:0 group-title="[AL]STREAM FILM" tvg-logo="https://i.imgur.com/eAA0pw6.png",[$]CINEMAX
-http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:0 group-title="[AL]STREAM FILM" tvg-logo="https://i.imgur.com/VhxGQ7v.png",[$]&FLIX HD
 http://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="[AL]STREAM FILM" tvg-logo="https://i.imgur.com/0gTliV5.png",[$]&PRIVE HD
@@ -3908,6 +3902,8 @@ https://videos.files.wordpress.com/Zy5UZlbe/vetem4_dvd.mp4
 https://videos.files.wordpress.com/sMlkFFBG/spell_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]SNIPER
 https://videos.files.wordpress.com/7zVEhWEq/sniper_dvd.mp4
+#EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]FORENSIC
+https://videos.files.wordpress.com/XvBBUXyq/forensic_std.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]FLINCH
 https://videos.files.wordpress.com/LShewekH/flinch_dvd.mp4
 #EXTINF:-1 group-title="[AL]FILMA(ME TITRA)" tvg-logo="https://i.ibb.co/yhWY0kc/VV.png",[$]ZATHURA
