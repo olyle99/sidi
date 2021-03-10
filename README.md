@@ -2919,13 +2919,13 @@ http://200.73.117.225:8000/play/a0bq
 
 #EXTINF:0 group-title="[PR]SPORTE PERUIANE" tvg-logo="https://i.imgur.com/EAcliGR.png",[$]ESPN HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/16025
-#EXTINF:0 group-title="[MX]SPORTE MEKSIKANE" tvg-logo="https://i.imgur.com/cLmaWsM.png",[$]ESPN 2HD
+#EXTINF:0 group-title="[PR]SPORTE PERUIANE" tvg-logo="https://i.imgur.com/cLmaWsM.png",[$]ESPN 2HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/16026
-#EXTINF:0 group-title="[MX]SPORTE MEKSIKANE" tvg-logo="https://i.imgur.com/a9sSsTA.png",[$]FOX SPORTS HD
+#EXTINF:0 group-title="[PR]SPORTE PERUIANE" tvg-logo="https://i.imgur.com/a9sSsTA.png",[$]FOX SPORTS HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/16034
-#EXTINF:0 group-title="[MX]SPORTE MEKSIKANE" tvg-logo="https://i.imgur.com/Rrc9YqK.png",[$]FOX SPORTS 2HD
+#EXTINF:0 group-title="[PR]SPORTE PERUIANE" tvg-logo="https://i.imgur.com/Rrc9YqK.png",[$]FOX SPORTS 2HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/16035
-#EXTINF:0 group-title="[MX]SPORTE MEKSIKANE" tvg-logo="https://i.imgur.com/aahr1SV.jpg",[$]FOX SPORTS 3HD
+#EXTINF:0 group-title="[PR]SPORTE PERUIANE" tvg-logo="https://i.imgur.com/aahr1SV.jpg",[$]FOX SPORTS 3HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/15975
 
 #EXTINF:0 group-title="[AZ]SPORTE AFRIKANE" tvg-logo="https://i.ibb.co/5hPPMnx/BLITZ.png",[$]S BLITZ HD
