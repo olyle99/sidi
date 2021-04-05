@@ -427,7 +427,7 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/243
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.ibb.co/SwK8SfZ/MM.png",[$]MELODY TV
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/281
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/XpkXtsa.png",[$]ART MEDIA+ HD 
-http://artiiptv.xyz:8080/hls/artmedia.m3u8
+http://artiptv.xyz:8080/hls/artmedia.m3u8
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/50ionb8.jpg",[$]TALLAVA MUSIC HD 
 http://musictallavatv.xyz:8080/hls/musictallavatv.m3u8
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/2bk3ouT.jpg",[$]FRAME TV 
