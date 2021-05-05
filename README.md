@@ -4385,19 +4385,19 @@ http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/1437
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/1438
 #EXTINF:-1 group-title="[AL]SPORT BOX" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png",[$]Tring Sport 2HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/1440
-#EXTINF:0 group-title="[AL]SPORT" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png",[$]KUJTESA SPORT 1HD
+#EXTINF:0 group-title="[AL]SPORT BOX" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png",[$]KUJTESA SPORT 1HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/1442
-#EXTINF:0 group-title="[AL]SPORT" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png",[$]KUJTESA SPORT 2HD
+#EXTINF:0 group-title="[AL]SPORT BOX" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png",[$]KUJTESA SPORT 2HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/1443
-#EXTINF:0 group-title="[AL]SPORT" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png",[$]KUJTESA SPORT 3HD
+#EXTINF:0 group-title="[AL]SPORT BOX" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png",[$]KUJTESA SPORT 3HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/1444
-#EXTINF:0 group-title="[AL]SPORT" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png",[$]KUJTESA SPORT 4HD
+#EXTINF:0 group-title="[AL]SPORT BOX" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png",[$]KUJTESA SPORT 4HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/1445
-#EXTINF:0 group-title="[AL]SPORT" tvg-logo="https://i.imgur.com/l2kAyTL.png",[$]ART SPORT 1HD
+#EXTINF:0 group-title="[AL]SPORT BOX" tvg-logo="https://i.imgur.com/l2kAyTL.png",[$]ART SPORT 1HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/1434
-#EXTINF:0 group-title="[AL]SPORT" tvg-logo="https://i.imgur.com/KVqDw9l.png",[$]ART SPORT 2HD
+#EXTINF:0 group-title="[AL]SPORT BOX" tvg-logo="https://i.imgur.com/KVqDw9l.png",[$]ART SPORT 2HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/1435
-#EXTINF:0 group-title="[AL]SPORT" tvg-logo="https://i.imgur.com/RIHyRkP.png",[$]ART SPORT 3HD
+#EXTINF:0 group-title="[AL]SPORT BOX" tvg-logo="https://i.imgur.com/RIHyRkP.png",[$]ART SPORT 3HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/1436
 #EXTINF:-1 group-title="[AL]SPORT BOX" tvg-logo="https://i.imgur.com/7tThLaK.jpg",[$]Eurosport 1HD
 http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/1446
