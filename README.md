@@ -2920,13 +2920,13 @@ http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/23442
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/23443
 #EXTINF:-1 group-title="[AL]CLOUD SPORTS" tvg-logo="https://i.imgur.com/ZIoIzvT.png",[$]MAX SPORT 3HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/26756
-#EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/yWGGdRP.png",[$]SKY CALIO 1HD
+#EXTINF:0 group-title="[AL]CLOUD SPORTS" tvg-logo="https://i.imgur.com/yWGGdRP.png",[$]SKY CALIO 1HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/1693
-#EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/Rgalqd6.png",[$]SKY CALCIO 2HD
+#EXTINF:0 group-title="[AL]CLOUD SPORTS" tvg-logo="https://i.imgur.com/Rgalqd6.png",[$]SKY CALCIO 2HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/1694
-#EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/KzuKLlF.png",[$]SKY CALCIO 3HD
+#EXTINF:0 group-title="[AL]CLOUD SPORTS" tvg-logo="https://i.imgur.com/KzuKLlF.png",[$]SKY CALCIO 3HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/8967
-#EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/xwSQKFr.png",[$]SKY CALCIO 4HD
+#EXTINF:0 group-title="[AL]CLOUD SPORTS" tvg-logo="https://i.imgur.com/xwSQKFr.png",[$]SKY CALCIO 4HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/8968
 #EXTINF:0 group-title="[AL]CLOUD SPORTS" tvg-logo="https://hosting.pilsfree.net/chudy/tvx/digi_sport_1.png",[$]DIGI SPORT 1HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/20428
