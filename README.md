@@ -4962,7 +4962,7 @@ http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/823
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/822
 #EXTINF:-1 group-title="[WL]EURO SPORTS" tvg-logo="https://i.ibb.co/TYTChdL/VOETBAL.png",[$]ZIGGO VOETBAL HD
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/820
-#EXTINF:-1 group-title="[NL]EURO SPORTS" tvg-logo="https://i.ibb.co/Ntndfcx/SELECT.png",[$]ZIGGO SELECT HD
+#EXTINF:-1 group-title="[WL]EURO SPORTS" tvg-logo="https://i.ibb.co/Ntndfcx/SELECT.png",[$]ZIGGO SELECT HD
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/821
 #EXTINF:-1 group-title="[WL]EURO SPORTS" tvg-logo="https://i.imgur.com/9Gx9UD8.png",[$]ZIGGO DOCU HD
 http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/13803
