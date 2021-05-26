@@ -5835,7 +5835,7 @@ http://212.200.127.243:8080/ArenaSport1/index.m3u8|User-Agent=stream
 http://212.200.127.243:8080/ArenaSport2/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[SL]SPORTE SLOVENE" tvg-logo="https://i.ibb.co/2FHMMPW/A3.png",[$]ARENA SPORT 3HD
 http://212.200.127.243:8080/ArenaSport3/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[SR]SPORTE SLOVENE" tvg-logo="https://i.ibb.co/MNRVN1M/A4.png",[$]ARENA SPORT 4HD
+#EXTINF:0 group-title="[SL]SPORTE SLOVENE" tvg-logo="https://i.ibb.co/MNRVN1M/A4.png",[$]ARENA SPORT 4HD
 http://212.200.127.243:8080/ArenaSport4/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[SL]SPORTE SLOVENE" tvg-logo="https://i.ibb.co/t3ncCtN/A5.png",[$]ARENA SPORT 5HD 
 http://212.200.127.243:8080/ArenaSport5/index.m3u8|User-Agent=stream
@@ -5860,25 +5860,6 @@ http://5.147.3.82:8000/play/a076/index.m3u8
 http://31.220.41.88:8081/live/de-sport1.stream/playlist.m3u8
 #EXTINF:0 group-title="[DE]SPORTE GJERMANE" tvg-logo="https://i.imgur.com/1URNrYf.png",[$]BAYERN MUNCHEN TV 
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
-
-#EXTINF:-1 group-title="[DE]SPORTE GJERMANE(VIP)" tvg-logo="https://i.ibb.co/jbDNykV/1.png",[$]DAZN 1HD
-http://185.234.111.37:8880/play/a04a
-#EXTINF:-1 group-title="[DE]SPORTE GJERMANE(VIP)" tvg-logo="https://i.ibb.co/k26cK1F/news.png",[$]SKY SPORTS NEWS HD
-http://185.234.111.37:8880/play/a070
-#EXTINF:-1 group-title="[DE]SPORTE GJERMANE(VIP)" tvg-logo="https://i.imgur.com/XuwOWh1.png",[$]SKY SPORTS 1HD
-http://185.234.111.37:8880/play/a05e
-#EXTINF:-1 group-title="[DE]SPORTE GJERMANE(VIP)" tvg-logo="https://i.imgur.com/eDLoKBW.png",[$]SKY SPORTS 2HD
-http://185.234.111.37:8880/play/a04p
-#EXTINF:0 group-title="[DE]SPORTE GJERMANE(VIP)" tvg-logo="https://i.imgur.com/hTmAAOz.png",[$]SKY SPORT BUNDESLIGA 1HD
-http://185.234.111.37:8880/play/a05f
-#EXTINF:0 group-title="[DE]SPORTE GJERMANE(VIP)" tvg-logo="https://i.imgur.com/TZv6hcX.png",[$]SKY SPORT F1 HD
-http://185.234.111.37:8880/play/a04e
-#EXTINF:0 group-title="[DE]SPORTE GJERMANE(VIP)" tvg-logo="https://i.ibb.co/HqR8C13/eu1.png",[$]EUROSPORT 1HD
-http://185.234.111.37:8880/play/a043
-#EXTINF:0 group-title="[DE]SPORTE GJERMANE(VIP)" tvg-logo="https://i.imgur.com/83HKfdS.jpg",[$]EUROSPORT 2HD
-http://185.234.111.37:8880/play/a05i
-#EXTINF:0 group-title="[DE]SPORTE GJERMANE(VIP)" tvg-logo="https://i.imgur.com/H2vqIWv.jpg",[$]EUROSPORT 2XTRA HD
-http://185.234.111.37:8880/play/a044
 
 #EXTINF:-1 group-title="[RU]SPORTE RUSE" tvg-logo="https://i.ibb.co/wQx1WXs/st.png",[$]SETANTA SPORTS +HD 
 http://195.158.29.129/live_360/live.stream+_360p.m3u8
