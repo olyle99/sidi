@@ -2652,17 +2652,17 @@ http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/65603
 
 #EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="https://i.imgur.com/yejclI6.png",[$]SKY STAR HD
 http://us.bestvideostreaming.is/8781/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.imgur.com/hqXu63H.png",[$]SKY 7HD
+#EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="https://i.imgur.com/hqXu63H.png",[$]SKY 7HD
 http://us.bestvideostreaming.is/8889/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.imgur.com/ZHh3HwU.png",[$]SKY AKSION HD
+#EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="https://i.imgur.com/ZHh3HwU.png",[$]SKY AKSION HD
 http://us.bestvideostreaming.is/8880/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.imgur.com/FfKGTPA.png",[$]SKY MAX HD
+#EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="https://i.imgur.com/FfKGTPA.png",[$]SKY MAX HD
 http://us.bestvideostreaming.is/8882/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.imgur.com/ANFuDXv.png",[$]SKY KOMEDI HD
+#EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="https://i.imgur.com/ANFuDXv.png",[$]SKY KOMEDI HD
 http://us.bestvideostreaming.is/8881/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.imgur.com/bQn5xBt.png",[$]SKY DRAME HD
+#EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="https://i.imgur.com/bQn5xBt.png",[$]SKY DRAME HD
 http://us.bestvideostreaming.is/8883/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]ARTMOTION FILM" tvg-logo="https://i.imgur.com/AW2jquB.png",[$]SKY NOVELA HD
+#EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="https://i.imgur.com/AW2jquB.png",[$]SKY NOVELA HD
 http://us.bestvideostreaming.is/8884/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png",[$]FILM NJË HD
 http://us.bestvideostreaming.is/8730/index.m3u8|User-Agent=stream
@@ -2686,7 +2686,7 @@ http://us.bestvideostreaming.is/8746/index.m3u8|User-Agent=stream
 http://us.bestvideostreaming.is/8754/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="http://www.albepg.com/tvlogi/Stinet.png",[$]STINET HD
 http://us.bestvideostreaming.is/8751/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="https://i.imgur.com/ziEXOAC.png",[$]EUROFILM HD
+#EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png",[$]EUROFILM HD
 http://us.bestvideostreaming.is/8758/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]ALBO FILM" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png",[$]JOLLY HD
 http://us.bestvideostreaming.is/8774/index.m3u8|User-Agent=stream
