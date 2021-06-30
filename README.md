@@ -3992,7 +3992,7 @@ http://185.74.7.220:8080/football2/index.m3u8
 http://185.129.1.242:80/eurosport1/mpegts
 #EXTINF:0 group-title="[AL]MIX SPORTS" tvg-logo="https://i.ibb.co/sp7FfCr/MIX.png",[$]EUROSPORT 2HD
 http://178.124.152.238:8088/esp2
-#EXTINF:-1 group-title="[AL]MIX SPORTS" tvg-logo="https://i.imgur.com/6UW4yZS.jpg",[$]5 SPORT HD
+#EXTINF:-1 group-title="[AL]MIX SPORTS" tvg-logo="https://i.ibb.co/sp7FfCr/MIX.png",[$]5 SPORT HD
 http://178.124.152.238:8088/bel5
 #EXTINF:-1 group-title="[AL]MIX SPORTS" tvg-logo="https://i.ibb.co/sp7FfCr/MIX.png",[$]TENNIS HD
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
