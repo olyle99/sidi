@@ -4134,7 +4134,7 @@ http://ferrarico.referrari.com/live/60101_.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]BEIN CONNECT(VIP)" tvg-logo="https://i.imgur.com/kAmc6oo.png",[$]BEIN SPORTS 7
 http://ferrarico.referrari.com/live/60102_.m3u8|User-Agent=stream
 
-#EXTINF:0 group-title="[AL]BEIN CONNECT " tvg-logo="https://i.imgur.com/kAmc6oo.png",[$]BEIN SPORTS NBA 
+#EXTINF:0 group-title="[AL]BEIN CONNECT" tvg-logo="https://i.imgur.com/kAmc6oo.png",[$]BEIN SPORTS NBA 
 http://31.220.41.88:8081/live/nba.stream/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]BEIN CONNECT" tvg-logo="https://i.imgur.com/kAmc6oo.png",[$]BEIN SPORTS PREMIUM 1
 http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8|User-Agent=stream
