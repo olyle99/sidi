@@ -6142,6 +6142,24 @@ https://videos.files.wordpress.com/RtS1eOXZ/wp-1607433860259_dvd.mp4
 https://videos.files.wordpress.com/rt9mVOsf/wp-1607433607593_dvd.mp4
 
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/quRPh4w.png",======================
+https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?05
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.01 [$]
+https://liki.gjirafa.com/api/media/gjvideo/y1q00q/720/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.02 [$]
+https://liki.gjirafa.com/api/media/gjvideo/y10xg1/480/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.03 [$]
+https://liki.gjirafa.com/api/media/gjvideo/y10gqq/480/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.04 [$]
+https://liki.gjirafa.com/api/media/gjvideo/y10kqt/480/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.05 [$]
+https://liki.gjirafa.com/api/media/gjvideo/y1kzxx/480/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.06 [$]
+https://liki.gjirafa.com/api/media/gjvideo/y1k1yt/480/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.07 [$]
+https://liki.gjirafa.com/api/media/gjvideo/y11zz1/720/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/m18ZkEo.png",[RRUSHE] EP.08 [$]
+https://liki.gjirafa.com/api/media/gjvideo/y1110k/480/index.m3u8
+#EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/quRPh4w.png",======================
 https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?5
 #EXTINF:0 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.imgur.com/89boGIr.png",[BENI] EP.01 [$] (GJYSHJA)
 https://prishtine.gjirafa.com/api/media/gjvideo/yqz0gq/index.m3u8
@@ -6406,142 +6424,146 @@ https://tiny.gjirafa.com/api/media/gjvideo/yyggzk/1080/index.m3u8
 
 #EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/qSWLDjp.png",======================
 https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?00
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.01 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.01 [$]
 https://videos.files.wordpress.com/VNnlH1kx/kudo1.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.02 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.02 [$]
 https://videos.files.wordpress.com/eYlhTAVd/kudo1.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.03 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.03 [$]
 https://videos.files.wordpress.com/tY7Qvt5n/kudo1.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.04 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.04 [$]
 https://videos.files.wordpress.com/CJVgK19a/kudo2.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.05 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.05 [$]
 https://videos.files.wordpress.com/TO57Im12/kudo2.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.06 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.06 [$]
 https://videos.files.wordpress.com/cxT3df2E/kudo2.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.07 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.07 [$]
 https://videos.files.wordpress.com/pj29sC12/kudo3.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.08 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.08 [$]
 https://videos.files.wordpress.com/NzZLEhAw/kudo3.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.09 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.09 [$]
 https://videos.files.wordpress.com/SUZb9Ap7/kudo3.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.10 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.10 [$]
 https://videos.files.wordpress.com/FMRajfCR/kudo4.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.11 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.11 [$]
 https://videos.files.wordpress.com/jF1VbxnC/kudo4.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.12 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.12 [$]
 https://videos.files.wordpress.com/3vXRW1jj/kudo4-1.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.13 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.13 [$]
 https://videos.files.wordpress.com/EId3aW4L/kudo5.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.14 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.14 [$]
 https://videos.files.wordpress.com/BdhW5Ja5/kudo5.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.15 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.15 [$]
 https://videos.files.wordpress.com/NabDe98A/kudo5.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.16 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.16 [$]
 https://videos.files.wordpress.com/HGzsDXyO/kudo6.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.17 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.17 [$]
 https://videos.files.wordpress.com/m4XfGWWI/kudo6.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.18 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.18 [$]
 https://videos.files.wordpress.com/sg4n4ZDz/kudo6.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.19 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.19 [$]
 https://videos.files.wordpress.com/6Bg2qzQt/kudo7.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.20 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.20 [$]
 https://videos.files.wordpress.com/QMmipzgl/kudo7.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.21 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.21 [$]
 https://videos.files.wordpress.com/z9gIw5mE/kudo7.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.22 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.22 [$]
 https://videos.files.wordpress.com/J0ls2Vn1/kudo8.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.23 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.23 [$]
 https://videos.files.wordpress.com/sfS4jaf8/kudo8.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.24 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.24 [$]
 https://videos.files.wordpress.com/xjN2y63e/kudo8.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.25 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.25 [$]
 https://videos.files.wordpress.com/R10rE9Du/kudo9.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.26 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.26 [$]
 https://videos.files.wordpress.com/s90Yh0q7/kudo9.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.27 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.27 [$]
 https://videos.files.wordpress.com/ORczyPhZ/kudo9.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.28 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.28 [$]
 https://videos.files.wordpress.com/lc1olkeY/kudo10.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.29 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.29 [$]
 https://videos.files.wordpress.com/oCzKZc9Y/kudo10-1.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.30 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.30 [$]
 https://videos.files.wordpress.com/CVKuKRu1/kudo10.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.31 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.31 [$]
 https://videos.files.wordpress.com/mOdcvcc5/kudo11.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.32 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.32 [$]
 https://videos.files.wordpress.com/1YlHkNyw/kudo11.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.33 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.33 [$]
 https://videos.files.wordpress.com/DOwUHeib/kudo11.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.34 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.34 [$]
 https://videos.files.wordpress.com/q5bs8I8H/kudo12.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.35 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.35 [$]
 https://videos.files.wordpress.com/ejGnGyz9/kudo12.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.36 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.36 [$]
 https://videos.files.wordpress.com/YErLlSym/kudo12.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.37 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.37 [$]
 https://videos.files.wordpress.com/xSt8knlO/kudo13.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.38 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.38 [$]
 https://videos.files.wordpress.com/1v5B2NUU/kudo13.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.39 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.39 [$]
 https://videos.files.wordpress.com/3vprxHUr/kudo13.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.40 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.40 [$]
 https://videos.files.wordpress.com/qCdt1j7n/kudo14.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.41 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.41 [$]
 https://videos.files.wordpress.com/HdY7XUls/kudo14.2-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.42 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.42 [$]
 https://videos.files.wordpress.com/dcvFgDmk/kudo14.3-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.43 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.43 [$]
 https://videos.files.wordpress.com/4VIyM4TM/kudo15.1-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.44 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.44 [$]
 https://videos.files.wordpress.com/ef4MUzVY/kudo15.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.45 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.45 [$]
 https://videos.files.wordpress.com/Sp0LfjC1/kudo15.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.46 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.46 [$]
 https://videos.files.wordpress.com/1sOQBrxU/kudo16.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.47 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.47 [$]
 https://videos.files.wordpress.com/OtOzcSqf/kudo16.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.48 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.48 [$]
 https://videos.files.wordpress.com/Eo5FAkFr/kudo16.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.49 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.49 [$]
 https://videos.files.wordpress.com/gKTUPLhM/kudo17.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.50 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.50 [$]
 https://videos.files.wordpress.com/vhvqk9CR/kudo17.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.51 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.51 [$]
 https://videos.files.wordpress.com/zGZIJP1h/kudo17.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.52 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.52 [$]
 https://videos.files.wordpress.com/bl4LKu5a/kudo18.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.53 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.53 [$]
 https://videos.files.wordpress.com/vtUfUeQW/kudo18.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.54 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.54 [$]
 https://videos.files.wordpress.com/QK9LlPjc/kudo18.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.55 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.55 [$]
 https://videos.files.wordpress.com/uyNl346O/kudo19.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.56 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.56 [$]
 https://videos.files.wordpress.com/E6K6CZDs/kudo19.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.57 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.57 [$]
 https://videos.files.wordpress.com/v6KRV5on/kudo19.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.58 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.58 [$]
 https://videos.files.wordpress.com/YxOF8cNx/kudo20.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.59 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.59 [$]
 https://videos.files.wordpress.com/is7Di2Pa/kudo20.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.60 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.60 [$]
 https://videos.files.wordpress.com/Yec7LfAh/kudo20.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.61 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.61 [$]
 https://videos.files.wordpress.com/JjwlbLgx/kudo21.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.62 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.62 [$]
 https://videos.files.wordpress.com/0BXo9TFK/kudo21-2.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.63 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.63 [$]
 https://videos.files.wordpress.com/ZHIX8uKo/kudo21.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.64 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.64 [$]
 https://videos.files.wordpress.com/QTt9o4Zc/kudo22.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.65 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.65 [$]
 https://videos.files.wordpress.com/JqIs1tGg/kudo22.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.66 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.66 [$]
 https://videos.files.wordpress.com/fVFJtQ2X/kudo23.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.67 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.67 [$]
 https://videos.files.wordpress.com/31lnySpm/kudo23.2_mp4_hd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/NnBwUxC.png",[KUDO BASHKË] EP.68 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.68 [$]
 https://videos.files.wordpress.com/GeUnBxYi/kudo233_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.69 [$]
+
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/MBgsScP.png",[KUDO BASHKË] EP.70 [$]
+https://videos.files.wordpress.com/uaZMf4GC/kudo24.2_mp4_hd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/qSWLDjp.png",======================
 https://videos.files.wordpress.com/LrrmpTEy/serialestart_mp4_dvd.mp4?0101
 #EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/JxVkZdZ.png",[GABIMI] EP.01 [$]
@@ -9242,6 +9264,48 @@ https://videos.files.wordpress.com/y1IfPeii/cp4.8_dvd.mp4
 
 #EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/cXINlr6.png",======================
 https://videos.files.wordpress.com/9azItHyf/kids_mp4_dvd.mp4?
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 01[$]
+https://videos.files.wordpress.com/WlHJylNf/farhat1_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 02[$]
+https://videos.files.wordpress.com/kh3B9d98/farhat2_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 03[$]
+https://videos.files.wordpress.com/eXoZPNET/farhat3_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 04[$]
+https://videos.files.wordpress.com/2gCFgX03/farhat4_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 05[$]
+https://videos.files.wordpress.com/t1IVQ1ze/farhat5_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 06[$]
+https://videos.files.wordpress.com/UUxVSHMR/farhat6_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 07[$]
+https://videos.files.wordpress.com/osGeIYOr/farhat7_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 08[$]
+https://videos.files.wordpress.com/zhuCFWBi/farhat8_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 09[$]
+https://videos.files.wordpress.com/RF5ATu8W/farhat9_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 10[$]
+https://videos.files.wordpress.com/bBisQhoe/farhat10-1_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 11[$]
+https://videos.files.wordpress.com/8xb8xwDx/farhat11_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 12[$]
+https://videos.files.wordpress.com/l8gcg1EY/farhat12_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 13[$]
+https://videos.files.wordpress.com/kixjVCAk/farhat13_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 14[$]
+https://videos.files.wordpress.com/Zrg9wyoy/farhat14_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 15[$]
+https://videos.files.wordpress.com/XmrokhSM/farhat15_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 16[$]
+https://videos.files.wordpress.com/hD9BYVDO/farhat16_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 17[$]
+https://videos.files.wordpress.com/5I8xvuBr/farhat17_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 18[$]
+https://videos.files.wordpress.com/llfJ6jJI/farhat18_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 19[$]
+https://videos.files.wordpress.com/BBo6YPTt/farhat19_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/N47D8cj.png",[FARHAT] SEZ 01 EP 20[$]
+https://videos.files.wordpress.com/NPRcD0X3/farhat20_mp4_hd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/cXINlr6.png",======================
+https://videos.files.wordpress.com/9azItHyf/kids_mp4_dvd.mp4?
 #EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/ZoRVyUe.png",[SANDOKAN] SEZ 01 EP 01[$]
 https://videos.files.wordpress.com/y0TmzZIu/s1.1_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/ZoRVyUe.png",[SANDOKAN] SEZ 01 EP 02[$]
@@ -9368,6 +9432,19 @@ https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E7.mp4
 https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E8.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(KIDS)" tvg-logo="https://i.imgur.com/CkRUhgk.png",[CARMEN] SEZ 01 EP 09[$]
 https://eu.shqipbox.app/file/shqipbox/karmen/S1%20E9.mp4
+
+#EXTINF:-1 group-title="[AL]PERRALLA(SHQIP)" tvg-logo="https://i.imgur.com/cXINlr6.png",======================
+https://videos.files.wordpress.com/9azItHyf/kids_mp4_dvd.mp4?4
+#EXTINF:-1 group-title="[AL]PERRALLA(SHQIP)" tvg-logo="https://i.imgur.com/uLqIzRX.png",[PERRALLA]KESULKUQJA [$]
+perralla shqip-kesulkuqja https://hamdiu.gjirafa.com/api/media/gjvideo/t1k0zg/index.m3u8
+#EXTINF:-1 group-title="[AL]PERRALLA(SHQIP)" tvg-logo="https://i.imgur.com/uLqIzRX.png",[PERRALLA]LEPURI DHE BRESHKA [$]
+lepuri dhe breshka https://abdyli.gjirafa.com/api/media/gjvideo/t1qk0z/index.m3u8
+#EXTINF:-1 group-title="[AL]PERRALLA(SHQIP)" tvg-logo="https://i.imgur.com/uLqIzRX.png",[PERRALLA]3 DERRKUCAT DHE UJKU [$]
+3derrkucat dhe ujku https://liki.gjirafa.com/api/media/gjvideo/t1gyq1/index.m3u8
+#EXTINF:-1 group-title="[AL]PERRALLA(SHQIP)" tvg-logo="https://i.imgur.com/uLqIzRX.png",[PERRALLA]KORBI DHE DHELPRA [$]
+korbi dhe dhelpra https://abdyli.gjirafa.com/api/media/gjvideo/tkk11k/index.m3u8
+#EXTINF:-1 group-title="[AL]PERRALLA(SHQIP)" tvg-logo="https://i.imgur.com/uLqIzRX.png",[PERRALLA]UJKU DHE 7 KECAT [$]
+ujku dhe 7 kecat https://naimi.gjirafa.com/api/media/gjvideo/tkk1gx/index.m3u8
 
 #EXTINF:-1 group-title="[AL]FILMA(VOD)" tvg-logo="https://i.imgur.com/1Z1Cbnn.jpg",=====>>[PAKETA(VOD)]<<=====
 https://videos.files.wordpress.com/lyxv5p8o/motiongraphicsfile-countdown_high_dvd.mp4
