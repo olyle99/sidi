@@ -4678,9 +4678,9 @@ http://31.220.41.90:8081/live/it-skysport-nba.stream/playlist.m3u8|User-Agent=st
 #EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/5QuuxjJ.png",[$]RAI SPORT+
 http://31.220.41.90:8081/live/it-raisportplus.stream/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/VBgDspN.png",[$]MILAN TV
-http://31.220.41.90:8081/live/it-milantv-arena.stream/playlist.m3u8|User-Agent=stream
+http://31.220.41.90:8081/live/it-milantv.stream/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[IT]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/IWleP1m.png",[$]INTER TV
-http://31.220.41.90:8081/live/it-intertv-arena.stream/playlist.m3u8|User-Agent=stream
+http://31.220.41.90:8081/live/it-intertv.stream/playlist.m3u8|User-Agent=stream
 
 #EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/UDNviX0.png",[$]SKY SPORT 1HD
 http://31.220.41.88:8081/live/skysportsnews.stream/playlist.m3u8|User-Agent=stream
@@ -5323,67 +5323,14 @@ http://cdntv.online/low/9mlxywika2/1132.m3u8|User-Agent=stream
 http://cdntv.online/low/9mlxywika2/1133.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.ibb.co/D1JJQ8R/ad.png",[$]ADULT 6
 http://cdntv.online/low/9mlxywika2/1134.m3u8|User-Agent=stream
-
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]HUSTLER HD
+#EXTINF:-1 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.ibb.co/D1JJQ8R/ad.png",[$]ADULT 7(HUSTLER)
 http://84.22.33.254/unicast.desirexxx/index.m3u8?token=tv
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/fIZdOQZ.png",[$]ERO-XXX HD
+#EXTINF:-1 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.ibb.co/D1JJQ8R/ad.png",[$]ADULT 8(ERO-XXX)
 http://84.22.33.254/unicast.eroxhd/index.m3u8?token=tv
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.ibb.co/4pY56fx/bizarre.png",[$]X-BIZARRE 
+#EXTINF:-1 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.ibb.co/D1JJQ8R/ad.png",[$]ADULT 9(BIZARRE)
 http://84.22.33.254/unicast.bizarre/index.m3u8?token=tv
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.ibb.co/cr3PPNv/bunga.png",[$]X-BUNGA BUNGA 
+#EXTINF:-1 group-title="[WL]ADULT XXX[+18]" tvg-logo="https://i.ibb.co/D1JJQ8R/ad.png",[$]ADULT 10(BUNGA)
 http://84.22.33.254/unicast.bungabunga/index.m3u8?token=tv
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]ALBA XXX-1
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8725|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]ALBA XXX-2
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8728|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]LEGAL PORNO
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8731|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]LADY FYRE
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8732|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]BLACKS ON BLONDES
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8733|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]VINCOVER
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8736|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]PRIVATE
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8742|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]EVIL ANGEL
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8743|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]X DORCEL
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8744|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]FUXERS
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8746|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]HUSTLER HD
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8749|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]PENTHOUSE GOLD HD
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8750|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]EROTIC 
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8765|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]EROTIC 2
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8764|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]EROTIC 3
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8763|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]PURE MATURE
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8767|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]UNDERCOVER SLUTS
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8769|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]OLDJE
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8770|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]NEW SENSATIONS
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8772|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]XXX-1
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8726|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]XXX-2
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8734|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]XXX-3
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8737|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]XXX-4
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8738|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]XXX-5
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8766|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]XXX-6
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8768|User-Agent=boxtvhd
-#EXTINF:-1 group-title="[WL]ADULT XPRIME[+18]" tvg-logo="https://i.imgur.com/oarY4CI.png",[$]XXX-7
-http://boxhdtv.live:8080/boxtvhdful/boxtvarkadas/8771|User-Agent=boxtvhd
 
 #EXTINF:-1 group-title="[WL]ADULT STREAM[+18]" tvg-logo="https://i.imgur.com/bJA8GHh.png",[$]PYCKAR RUSNOCH HD
 http://93.189.224.117:9030/russkayanoch
